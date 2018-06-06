@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Sem5 RE ex 3.cpp
+c:\users\manol\source\repos\sem5 re ex 3\sem5 re ex 3\sem5 re ex 3.cpp(17): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\manol\source\repos\sem5 re ex 3\sem5 re ex 3\sem5 re ex 3.cpp(19): warning C4552: '+': operator has no effect; expected operator with side-effect
+  Sem5 RE ex 3.vcxproj -> C:\Users\manol\source\repos\Sem5 RE ex 3\Debug\Sem5 RE ex 3.exe
